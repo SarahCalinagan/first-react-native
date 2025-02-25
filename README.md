@@ -1,5 +1,9 @@
 # Welcome to your Expo app 👋
 
+This app was created based on a YouTube tutorial to learn about React Native and Expo for the first time (https://youtu.be/9UKCv9T_rIo?si=VDll40R4LR5C3R5z).
+
+#
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
