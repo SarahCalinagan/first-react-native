@@ -1,6 +1,6 @@
 # Welcome to your Expo app 👋
 
-This app was created based on a YouTube tutorial to learn about React Native and Expo for the first time (https://youtu.be/9UKCv9T_rIo?si=VDll40R4LR5C3R5z).
+This app was created based on a YouTube tutorial to learn about React Native and Expo for the first time [YouTube Link](https://youtu.be/9UKCv9T_rIo?si=VDll40R4LR5C3R5z).
 
 #
 
